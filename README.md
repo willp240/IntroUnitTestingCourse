@@ -1,3 +1,6 @@
+![Unit tests](https://github.com/willp240/IntroUnitTestingCourse/workflows/Unit%20tests/badge.svg)
+
+
 # Introduction to Unit Testing with Python and GitHub
 
 This repository accompanies the Oxford RSE online course delivered on 17 Feb 2021.
